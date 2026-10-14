@@ -1,0 +1,2 @@
+# smart-agriconnect
+mini project
